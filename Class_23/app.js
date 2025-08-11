@@ -18,6 +18,7 @@ function isStringInAlphabeticalOrder(inputString){
 console.log(isStringInAlphabeticalOrder("abcdefg"));
 console.log(isStringInAlphabeticalOrder("abcde fg"));
 console.log(isStringInAlphabeticalOrder("abcdecfg"));
+console.log(isStringInAlphabeticalOrder("aBcDecfg"));
 
 
 

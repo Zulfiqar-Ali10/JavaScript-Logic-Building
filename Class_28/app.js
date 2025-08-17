@@ -27,6 +27,7 @@ function calculateTip(baseAmount, tipPercentage) {
 }
 
 console.log(calculateTip(977, [5, 10, 15]));
+console.log(calculateTip(1000, [5, 10, 15]));
 
 
 
